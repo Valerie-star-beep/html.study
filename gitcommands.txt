@@ -1,0 +1,5 @@
+1. git- Checks if git is installed in the laptop.See git help -a
+git innit- Makes the folder to start using git. DONE ONLY ONCE.
+git add . - Adds all files in the folder to be tracked by git.
+git commit -m "first commit" =Adds a message/tag to your changes.
+git config --global user.email""
